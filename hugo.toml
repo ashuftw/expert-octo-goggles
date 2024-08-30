@@ -1,0 +1,10 @@
+baseURL = 'https://pics.ashuftw.com'
+languageCode = 'en-us'
+title = 'ashuftw'
+#[params]
+#  subtitle = 'The Best Widgets on Earth'
+#  [params.contact]
+#    email = 'info@example.org'
+#   phone = '+1 202-555-1212'
+
+
