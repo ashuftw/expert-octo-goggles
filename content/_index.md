@@ -8,5 +8,5 @@ menus:
   main:
     name: Home
     weight: -1
-# sub-galleries on list pages are sorted by date and weight (descending)
+# sub-galleries on list pages are sorted by date and weight (descending) fix this. I want an ascending list
 ---
