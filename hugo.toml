@@ -6,6 +6,6 @@ title = 'ashuftw'
 #  [params.contact]
 #    email = 'info@example.org'
 #   phone = '+1 202-555-1'
-timeout = "60s"  # or however long you think it needs
+timeout = "600s"  # or however long you think it needs
 
 
